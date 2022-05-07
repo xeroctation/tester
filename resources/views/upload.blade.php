@@ -15,12 +15,12 @@
             Name:
             <input type="text" name="name">
             <br>
-            Category: 
+            Category:
             <select id="category" name="category">
                 <option value="rock">Rock</option>
                 <option value="pop">Pop</option>
                 <option value="rap">Rap</option>
-                <option value="indie">Indie</option>
+                <option value="indie">IndiE</option>
                 <option value="edm">EDM</option>
             </select>
             <br>
